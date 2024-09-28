@@ -1,0 +1,23 @@
+[
+	{
+		"estado": "São Paulo",
+		"valor": 67.83643
+	},
+	{
+		"estado": "Rio de Janeiro",
+		"valor": 36.67866
+	},
+	{
+		"estado": "Minas-Gerais",
+		"valor": 29.22988
+	},
+	{
+		"estado": "Espirito-Santo",
+		"valor": 27.16548
+	},
+	{
+		"estado": "Outros",
+		"valor": 19.84953
+	}
+
+]
